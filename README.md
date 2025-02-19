@@ -3,7 +3,9 @@
 this is our base repo
 
 **objective** 
-to create a website for students and faculty.. and also add an alumni networking blog page...
+to create a website for gsvians, by gsvians 
+this will have all the clubs' individual websites... and more... 
+and right now im running out of ideas... but i will get back to this later!
 
 **future vision:**
 1. single platform for hosting everything... including timetable and classwork / notes / study material
